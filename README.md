@@ -1,1 +1,2 @@
 # Robotic-Arm
+# Integrated the 3-Dimensional Robotic arm with the physical robotic arm via API integration (Blynk API) by writing suitable C# scripts. These scripts helped in connecting the virtual or digital robotic arm to the real one by fetching the angle values of the arm.
